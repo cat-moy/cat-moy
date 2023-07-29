@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello world ✌️
 
-<!--
-**cat-moy/cat-moy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hi, I’m Moy
+- 💡 I’m interested in the Artificial Inteligence 🤖, Data Science 🧮, Cybersecurity 🧑‍💻, Web programming 💻 and networks 🛜
+- 📚 I’m currently learning Python 🐍, web developtmen 🌐, SQL 🗂️ and English 🌎
 
-Here are some ideas to get you started:
+- 🦾 I’m looking to collaborate on projects large or small projects in order to learn from each other and demonstrate my development skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Social networks
+- [📷 Instagram](http://www.instagram.com/ulala.moy/)
+
+
+<!---
+cat-moy/cat-moy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
