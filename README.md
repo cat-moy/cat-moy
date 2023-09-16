@@ -7,8 +7,7 @@
 - 🦾 I’m looking to collaborate on projects large or small projects in order to learn from each other and demonstrate my development skills
 
 ## Social networks
-- [📷 Instagram](http://www.instagram.com/ulala.moy/)
-
+- [🔷 LinkedIn](https://www.linkedin.com/in/moy-gmz-glez)
 
 <!---
 cat-moy/cat-moy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
